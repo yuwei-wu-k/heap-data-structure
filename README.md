@@ -1,4 +1,4 @@
-# Research Paper for heap data structure and heapsort.
+# Research Paper for Heap Data Structure and Heapsort
 
 Name: Yuwei Wu
 
